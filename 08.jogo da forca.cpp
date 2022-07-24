@@ -1,6 +1,6 @@
 // !!! CÓDIGO COM DEFEITOS !!!
 //	   1- Contagem regredindo mesmo após acertos
-//	   2- Não aparecimento do vetor secreto		
+//	   2- Não aparecimento do vetor: secreto		
 
 #include <iostream>
 #include <stdlib.h>
